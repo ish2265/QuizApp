@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- this is the resource hint provided to the edittext field to type user's name. -->
+
+    <string name="edit_text">Type Your Name</string>
+
+    <!-- this is the resource for textview to display quiz score header. -->
+
+    <string name="score">Quiz Score</string>
+
+    <!-- this is the resource for the score textview. -->
+    <string name="zero">0</string>
+
+    <!-- this is the resouce for the question 1 -->
+
+    <string name="question_One">1. In which decade was the American Institute of Electrical Engineers (AIEE) founded?</string>
+
+     <!-- answers for question 1. -->
+    <string name="ans_1">A.1850s</string>
+    <string name="ans_2">B.1880s</string>
+    <string name="ans_3">C.1930s</string>
+    <string name="ans_4">D.1950s</string>
+
+    <!--question 2. -->
+
+    <string name="question_Two">2. What is part of a database that holds only one type of information?</string>
+
+    <!-- answers for question 2. -->
+    <string name="ans_Q21">A.Report</string>
+    <string name="ans_Q22">B.Field</string>
+    <string name="ans_Q23">C.Record</string>
+    <string name="ans_Q24">D.File</string>
+
+    <!--question 3. -->
+
+    <string name="question_Three">3. OS' computer abbreviation usually means?</string>
+
+    <!-- this is used as hint for user input edit-text box. -->
+
+    <string name="hint2">Type your answer</string>
+
+    <!--question 4. -->
+
+    <string name="question_Four">4.Which is a type of Electrically-Erasable Programmable Read-Only Memory?</string>
+
+    <!-- answers for question 4. -->
+
+    <string name="ansQ41">A.Flash</string>
+    <string name="ansQ42">B.Flange</string>
+    <string name="ansQ43">C.Fury</string>
+    <string name="ansQ44">D.FRAM</string>
+
+    <!--question 5. -->
+
+    <string name="question_Five">5.The purpose of choke in tube light is?</string>
+
+    <!-- answers for question 5. -->
+
+    <string name="ansQ51">A.To decrease the current</string>
+    <string name="ansQ52">B.To increase the current</string>
+    <string name="ansQ53">C.To decrease the voltage momentarily</string>
+    <string name="ansQ54">D.To increase the voltage momentarily</string>
+
+
+</resources>
